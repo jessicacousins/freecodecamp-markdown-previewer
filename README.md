@@ -4,6 +4,12 @@
 
 This project was created as a learning exercise for working with React and Markdown rendering. It is a simple Markdown Previewer web application built using React, Bootstrap, and the "marked" library for Markdown rendering. It allows you to enter Markdown text in an editor and instantly see the rendered HTML output in a preview pane.
 
+## Deployed on Netlify
+
+```
+https://main--vermillion-marshmallow-f5db49.netlify.app/
+```
+
 ## Features
 
 - Real-time Markdown preview as you type.
